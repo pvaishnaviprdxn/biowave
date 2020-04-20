@@ -280,6 +280,10 @@ nav a{
 #f2pm{
     display: none;
 }
+.f3{
+    width: 50%;
+    height: 300px;
+}
 /*=================================
   main styling ends here
 =================================*/
