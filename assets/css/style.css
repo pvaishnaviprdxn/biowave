@@ -176,7 +176,8 @@ nav a{
     border-bottom: 3px solid transparent;
     width: 135px;
     border-image:linear-gradient(to right,rgb(86,216,178),rgb(36,133,195),rgb(1,63,113));
-    border-image-slice: 1
+    border-image-slice: 1;
+    cursor: pointer;
 }
 .emor{
     display: none;
