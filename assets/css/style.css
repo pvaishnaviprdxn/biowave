@@ -141,17 +141,63 @@ nav a{
 =================================*/
 .hero-image{
     width: 100%;
-    height: 600px;
+    height: 500px;
     background-image: url('../images/morning.jpeg');
     background-size: cover;
 }
+.img-div{
+    width: 86%;
+    margin: 0 auto;
+}
+.img-div-cont{
 
-
-
-
-
-
-
+}
+.img-div-ctitle h2{
+    text-align: center;
+    padding: 40px 0;
+    font-size: 54px;
+    color: white;
+}
+.img-div p{
+    text-align: center;
+    color: white;
+    width: 80%;
+    margin-left: 10%;
+    font-size: 20px;
+}
+.lmore{
+    width: 200px;
+    margin: 0 auto;
+    padding: 40px 0;
+}
+.lmore p{
+    font-weight: bold;
+    text-transform: uppercase;
+    border-bottom: 3px solid transparent;
+    width: 135px;
+    border-image:linear-gradient(to right,rgb(86,216,178),rgb(36,133,195),rgb(1,63,113));
+    border-image-slice: 1
+}
+.emor{
+    display: none;
+}
+.feature-brands{
+    background-image: linear-gradient(to right, rgb(86,214,178),rgb(70,139,199));
+}
+.feature-brands h2{
+    text-align: center;
+    color: white;
+    padding: 15px 0 0 0;
+}
+.b_icon{
+    width: 86%;
+    margin: 0 auto;
+    padding:30px 0;
+}
+.b_icon a{
+    color: white;
+    font-size: 12px;
+}
 /*=================================
   main styling ends here
 =================================*/
