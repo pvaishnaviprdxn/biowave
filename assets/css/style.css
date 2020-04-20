@@ -128,13 +128,14 @@ nav a{
     margin:  0 0 0 40px;
 }
 
-
-
-
 /*=================================
   Header styling ends here
 =================================*/  
-
+.hrline{
+    width: 100%;
+    height:4px;
+    background-image: linear-gradient(to right,rgb(86,216,178),rgb(36,133,195),rgb(1,63,113));
+}
 /*=================================
   main styling starts here
 =================================*/
