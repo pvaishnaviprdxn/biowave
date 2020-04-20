@@ -247,27 +247,24 @@ nav a{
     width: 50%;
     height: 300px;
 }
-.ftitle{
+.ftitle,.f6title,.f7title{
     padding: 20px 0;
 }
-.ftitle p{
+.ftitle p,.f6title p,.f7title p{
     text-align: center;
     line-height: 1.5;
     color: rgb(0,62,112);
     font-size: 18px;
     word-spacing: 4px;
 }
-.f2p1{
-    
-}
-#f2p,#f2pm{
+#f2p,#f2pm,#f3p,#f3pm,#f6p,#f6pm,#f7p,#f7pm{
     font-size: 14px;
     text-align: center;
     width: 50%;
     margin: 0 auto;
     padding: 0 0 38px 0;
 }
-#more{
+#more,#more1,#more2,#more3{
     color: rgb(0,62,112);
     border-bottom: 3px solid transparent;
     border-image:linear-gradient(to right,rgb(86,216,178),rgb(36,133,195),rgb(1,63,113));
@@ -277,12 +274,54 @@ nav a{
     margin: 0 auto;
     cursor: pointer;
 }
-#f2pm{
+#f2pm,#f3pm,#f6pm,#f7pm{
     display: none;
 }
 .f3{
     width: 50%;
+    height: 400px;
+}
+.f3title{
+    padding: 100px 0 20px 0;
+}
+.f3title p{
+    text-align: center;
+    line-height: 1.5;
+    color: rgb(0,62,112);
+    font-size: 18px;
+    word-spacing: 4px;
+}
+.f4{
+    width: 50%;
+    height: 400px;
+}
+.f4 img{
+    width: 50%;
+    height: 400px;
+}
+.f5{
+    width: 50%;
     height: 300px;
+}
+.f5 img{
+    width: 100%;
+    height: 300px;
+}
+.f6{
+    width: 50%;
+    height: 300px;
+}
+.f7{
+    width: 50%;
+    height: 300px;
+}
+.f8{
+    width: 50%;
+    height: 300px;
+}
+.f8 img{
+    width: 100%;
+    height: 300px;  
 }
 /*=================================
   main styling ends here
