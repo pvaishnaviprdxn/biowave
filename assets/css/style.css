@@ -511,6 +511,15 @@ nav a{
 .bitaut{
     padding: 20px;
 }
+.readmore{
+    display: none;
+}
+.toggle{
+    display: none;
+}
+.load{
+    display: block;
+}
 /*=================================
   main styling ends here
 =================================*/
