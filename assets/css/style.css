@@ -336,6 +336,63 @@ nav a{
     height: 300px;
     margin: 7.5% 15% 7.5% 15%;
 }
+.supp{
+    background-image: linear-gradient(to right, rgb(86,214,178),rgb(70,139,199));
+}
+.s1{
+    width: 48%;
+    display: inline-block;
+    margin: 30px 0 50px 0;
+}
+.useri1{
+    text-align: center;
+    padding: 40px 40px 15px 40px;
+}
+.useri1 a{
+    font-size: 58px;
+    color: white;
+    line-height: 1.5;
+}
+.useri1 p{
+    width: 66%;
+    color: white;
+    font-size: 24px;
+    margin: 0 auto;
+}
+.fas{
+
+}
+.fa-user{
+
+}
+.useri2{
+    width: 60%;
+    margin: 0 auto;
+}
+.useri2 p{
+    text-align: center;
+    font-size: 12px;
+    color: white;
+}
+.useri3{
+    text-align: center;
+    padding: 20px 0 0 0;
+}
+.useri3 a{
+    color: white;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    border-bottom: 2px solid transparent;
+    border-bottom-color:rgb(168,223,220);
+    padding:0 0 2px 0;
+}
+.s2{
+    width: 48%;
+    display: inline-block;
+    margin: 30px 0 50px 0;
+}
 /*=================================
   main styling ends here
 =================================*/
