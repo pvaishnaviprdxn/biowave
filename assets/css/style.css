@@ -278,9 +278,6 @@ nav a{
     margin: 0 auto;
     cursor: pointer;
 }
-#f2pm,#f3pm,#f6pm,#f7pm{
-    display: none;
-}
 .f3{
     width: 50%;
     border-bottom: 4px solid transparent;
@@ -447,9 +444,6 @@ nav a{
     font-weight: bold;
     letter-spacing: 2px;
     cursor: pointer;
-}
-#pro1p,#pro3p{
-    display: none;
 }
 .p3{
     width: 50%;
