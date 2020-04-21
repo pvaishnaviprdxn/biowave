@@ -491,14 +491,14 @@ nav a{
 .bio-cont{
     padding: 50px 10px 50px 10px;
 }
-.bio-cont p{
+.bio-cont{
     text-align: center;
     color: white;
     line-height: 2;
     font-size: 18px;
 }
 .author{
-    padding: 40PX;
+    padding: 40PX 0 0 0;
     font-size: 14px;
     color: rgb(135,183,191);
 }
