@@ -393,6 +393,98 @@ nav a{
     display: inline-block;
     margin: 30px 0 50px 0;
 }
+.products{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 50px 0 50px 0;
+}
+.p1{
+    width: 50%;
+    border-bottom: 4px solid transparent;
+    border-image:linear-gradient(to right,rgb(251,251,251),rgb(240,240,240));
+    border-image-slice: 1;
+}
+.p1 img{
+    width: 70%;
+    height: 300px;
+    padding: 7.5% 15% 7.5% 15%;
+}
+.p2{
+    width: 50%;
+    height: 300px;
+    border-bottom: 4px solid transparent;
+    border-image:linear-gradient(to right,rgb(240,240,240),rgb(251,251,251));
+    border-image-slice: 1;
+}
+.prod-content{
+    padding: 50px;
+}
+.proname{
+
+}
+.proname p{
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.procont{
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+}
+.procont p{
+    font-size: 14px;
+    color: gray;
+    line-height: 1.2;
+}
+.more4{
+
+}
+#pro1,#pro3,#buy a{
+    padding: 30px 0;
+    color: rgb(0,62,112);
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
+#pro1p,#pro3p{
+    display: none;
+}
+.p3{
+    width: 50%;
+    border-bottom: 4px solid transparent;
+    border-image:linear-gradient(to right,rgb(251,251,251),rgb(240,240,240));
+    border-image-slice: 1;
+}
+.p4{
+    width: 50%;
+    border-bottom: 4px solid transparent;
+    border-image:linear-gradient(to right,rgb(240,240,240),rgb(251,251,251));
+    border-image-slice: 1;
+    
+}
+.p4 img{
+    width: 70%;
+    height: 300px;
+    padding: 7.5% 15% 7.5% 15%;
+}
+.p5{
+    width: 50%;
+    border-bottom: 4px solid transparent;
+    border-image:linear-gradient(to right,rgb(251,251,251),rgb(240,240,240));
+    border-image-slice: 1;
+}
+.p5 img{
+    padding: 7.5% 15% 7.5% 15%;
+}
+.p6{
+    width: 50%;
+    border-bottom: 4px solid transparent;
+    border-image:linear-gradient(to right,rgb(240,240,240),rgb(251,251,251));
+    border-image-slice: 1;
+}
+
 /*=================================
   main styling ends here
 =================================*/
